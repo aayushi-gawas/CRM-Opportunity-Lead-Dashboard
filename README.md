@@ -1,4 +1,4 @@
-# CRM-Opportunity-Lead-Dashboard
+
 # CRM Opportunity & Lead Analytics Dashboard
 
 An interactive **CRM Analytics Dashboard** developed using **Power BI, Excel, Tableau, and SQL** to analyze leads, opportunities, sales performance, conversion trends, and revenue.
